@@ -5,7 +5,7 @@
 int main()
 {
    float num, root;
-   printf(": ");   // Correct the code
+   printf("enter the number");   // Correct the code
    scanf("%f", &num);
    // Computes the square root of num and stores in root.
    root = sqrt(num);
